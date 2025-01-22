@@ -1,0 +1,3 @@
+# Requiere Python 3.x
+windows-curses==2.1.0  
+# Solo necesario para usuarios de Windows lo demas esta incluído en la version de PYTHON 3 😝
