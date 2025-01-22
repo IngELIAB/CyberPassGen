@@ -21,6 +21,19 @@
 - **Efectos de "glitch"** y **pantalla hackeada** para una experiencia cibernética.
 - **Interfaz limpia** en la terminal con colores llamativos que simulan un entorno de hacking futurista.
 
+### Requisitos
+
+- Python 3.x (recomendado: Python 3.6 o superior)
+- Para usuarios de Windows, es necesario instalar la librería `windows-curses` para habilitar el uso de `curses`.
+
+### Instalación de dependencias
+
+1. Clona o descarga el repositorio del proyecto.
+2. Navega al directorio del proyecto.
+3. Si estás en **Windows**, instala las dependencias usando `requirements.txt`. Para ello, ejecuta el siguiente comando en tu terminal:
+
+   ```bash
+   pip install -r requirements.txt
 ## Cómo instalar
 
 1. **Clonar el repositorio**:
