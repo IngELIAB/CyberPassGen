@@ -1,5 +1,6 @@
 
 # CyberPassGen
+![CyberPassGen](CyberPassGen.webp)
 
 ## Descripción
 
